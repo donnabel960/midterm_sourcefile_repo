@@ -39,3 +39,5 @@ for score in scores:
                 print(f"Lowest Score:{lowest}")
                 print(f"Passed:{passed}")
                 print(f"Failed:{failed}")
+
+# Lesson 1 source code
